@@ -17,9 +17,11 @@ Built with Python, Streamlit, and machine learning libraries.
 
 Here’s a snapshot of the app in action:
 
-![AI Stock Market Forecasting Demo](assets/demo.png)
+See a full demo of the app here:  
+📄 [AI Stock Forecasting Dashboard (PDF)](assets/AI-Stock-Forecasting-Dashboard.pdf)
 
 *(LSTM shows a 7.66% improvement over ARIMA in this example.)*
+
 
 ---
 
